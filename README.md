@@ -2,11 +2,6 @@
 
 I'm Yuchen Lu, a freshman at Urumqi No.1 Senior High School.
 
-## Find me:
-
-* My Blog: https://lyccrius.site
-* My E-mail: lyccrius@outlook.com
-
 <!--
 **Lyccrius/Lyccrius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
