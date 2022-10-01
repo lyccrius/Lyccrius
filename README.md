@@ -2,7 +2,10 @@
 
 I'm Yuchen Lu, a freshman at Urumqi No.1 Senior High School.
 
-[![](https://cfrating.ihcr.top/?user=Lyccrius&style=flat)](https://codeforces.com/profile/Lyccrius)
+## Find me:
+
+* My Blog: https://lyccrius.site
+* My email: lyccrius@outlook.com
 
 <!--
 **Lyccrius/Lyccrius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
