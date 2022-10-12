@@ -1,10 +1,7 @@
 # Hi, Lyccrius here 👋
 
 I'm Yuchen Lu, a freshman at Urumqi No.1 Senior High School.
-
-<a href="https://www.luogu.com.cn/user/278046" target="_blank"><img alt="Lyccrius 的练习情况" src="https://luogu.wao3.cn/api/practice?id=278046&card_width=1080"></a>
-
-<a href="https://www.luogu.com.cn/user/278046" target="_blank"><img alt="Lyccrius 的咕值信息" src="http://luogu.wao3.cn/api/guzhi?id=278046&scores=100,17,0,0,30&card_width=1080"></a>
+[![](https://luogu.wao3.cn/api/practice?id=278046&card_width=1080)](https://www.luogu.com.cn/user/278046)
 
 <!--
 **Lyccrius/Lyccrius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
