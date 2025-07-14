@@ -1,7 +1,6 @@
 # Hi, Lyccrius here 👋
 
-I'm Yuchen Lu, a freshman at Urumqi No.1 Senior High School.
-[![](https://luogu.wao3.cn/api/practice?id=278046&card_width=1080)](https://www.luogu.com.cn/user/278046)
+I'm Yuchen Lu, a freshman at the Hong Kong Polytechnic University.
 
 <!--
 **Lyccrius/Lyccrius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
